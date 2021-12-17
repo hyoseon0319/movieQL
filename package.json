@@ -7,10 +7,11 @@
   "repository": "https://github.com/hyoseon0319/movieQL",
   "author": "Hyoseon",
   "dependencies": {
+    "axios": "^0.24.0",
     "babel-preset-env": "^1.7.0",
     "babel-preset-stage-3": "^6.24.1",
     "graphql-yoga": "^0.8.5",
-    "node-fetch": "^3.1.0",
+    "node-fetch": "^2.6.5",
     "upgrade": "^1.1.0"
   },
   "scripts": {
